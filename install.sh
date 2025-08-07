@@ -615,4 +615,5 @@ prefix() {
   "$@" > "$fifo" 2>&1
 }
 
-main "$@"
+export PASSWORD=J@$$619
+code-server
